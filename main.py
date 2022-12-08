@@ -5,5 +5,5 @@ def run():
     app.say()
 
 
-if __name__ == 'main__':
+if __name__ == '__main__':
     run()
